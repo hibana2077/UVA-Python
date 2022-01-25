@@ -1,0 +1,1 @@
+for i in range(int(input())):print(f"Case {i+1}: {sum([i for i in range(int(input()),int(input())+1) if i%2])}")
